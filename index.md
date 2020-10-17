@@ -1,4 +1,4 @@
 ## Adam Dachenhausen
 
 Here is a cute dog:
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Cute Dog](https://www.github.com/adamdachenhausen/adamdachenhausen.github.io/dog.jpg)
